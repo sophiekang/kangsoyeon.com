@@ -18,7 +18,7 @@ class Firstpage extends Component {
           Soyeon Kang's website { windowWidth }
         </h1>
 
-        <Link to="/project-1">Project 1</Link>
+        <Link to="/kangsoyeon.com/project-1">Project 1</Link>
       </div>
     );
   }

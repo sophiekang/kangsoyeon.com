@@ -17,7 +17,7 @@ class Project1 extends Component {
           Project 1: App 1222
         </h1>
 
-        <Link to="/">Home</Link>
+        <Link to="/kangsoyeon.com">Home</Link>
       </div>
     );
   }
