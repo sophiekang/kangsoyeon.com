@@ -29,8 +29,8 @@ class Main extends Component {
     return (
       <section>
         <Routes>
-          <Route exact path="/" element={<Firstpage />} />
-          <Route exact path="/project-1" element={<Project1 />} />
+          <Route exact path="/kangsoyeon.com" element={<Firstpage />} />
+          <Route exact path="/kangsoyeon.com/project-1" element={<Project1 />} />
         </Routes>
       </section>
     );
