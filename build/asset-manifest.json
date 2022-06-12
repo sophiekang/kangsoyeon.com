@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kangsoyeon.com/static/css/main.7afd7637.css",
+    "main.js": "/kangsoyeon.com/static/js/main.d78e46ff.js",
+    "index.html": "/kangsoyeon.com/index.html",
+    "main.7afd7637.css.map": "/kangsoyeon.com/static/css/main.7afd7637.css.map",
+    "main.d78e46ff.js.map": "/kangsoyeon.com/static/js/main.d78e46ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afd7637.css",
+    "static/js/main.d78e46ff.js"
+  ]
+}
