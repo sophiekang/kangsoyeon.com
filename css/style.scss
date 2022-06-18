@@ -1,13 +1,12 @@
 @import 'reset';
-@import 'fonts';
 
 
 body {
-  background-color:#FFFFFF;
+  background-color: #FFFFFF;
   transition: 0.5s background-color;
   font-family: sans-serif;
   font-size:14px;
-  line-height:16px;
+  line-height: 16pt;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
